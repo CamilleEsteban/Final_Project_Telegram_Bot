@@ -1,0 +1,34 @@
+Ramil Battalier,[Deadlines        7.714286
+Discussions      7.142857
+Learning         7.142857
+Consideration    5.428571
+Easeof_Quiz      4.571429
+Ease_ofA         3.428571
+dtype: float64, 35.42857142857143]
+Richard Eden,[Learning         9.333333
+Deadlines        8.666667
+Discussions      7.333333
+Consideration    5.333333
+Easeof_Quiz      4.666667
+Ease_ofA         4.666667
+dtype: float64, 40.0]
+Clark Go,[Deadlines        8.50
+Learning         8.00
+Discussions      7.50
+Consideration    6.75
+Easeof_Quiz      4.75
+Ease_ofA         3.75
+dtype: float64, 39.25]
+Lean Franzyl Yao,[Consideration    8.0
+Deadlines        8.0
+Discussions      8.0
+Learning         8.0
+Easeof_Quiz      7.0
+Ease_ofA         7.0
+dtype: float64, 46.0]
+Ease_ofA,Ramil Battalier : 3.4285714285714284 Richard Eden : 4.666666666666667 Clark Go : 3.75 Lean Franzyl Yao : 7.0 
+Learning,Ramil Battalier : 7.142857142857143 Richard Eden : 9.333333333333334 Clark Go : 8.0 Lean Franzyl Yao : 8.0 
+Discussions,Ramil Battalier : 7.142857142857143 Richard Eden : 7.333333333333333 Clark Go : 7.5 Lean Franzyl Yao : 8.0 
+Easeof_Quiz,Ramil Battalier : 4.571428571428571 Richard Eden : 4.666666666666667 Clark Go : 4.75 Lean Franzyl Yao : 7.0 
+Deadlines,Ramil Battalier : 7.714285714285714 Richard Eden : 8.666666666666666 Clark Go : 8.5 Lean Franzyl Yao : 8.0 
+Consideration,Ramil Battalier : 5.428571428571429 Richard Eden : 5.333333333333333 Clark Go : 6.75 Lean Franzyl Yao : 8.0 
